@@ -1,4 +1,4 @@
-mehta-jinal/mehta-jinal[![An image of @mehtajinal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mehtajinal)](https://holopin.io/@mehtajinal)
+[![An image of @mehtajinal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mehtajinal)](https://holopin.io/@mehtajinal)
 <br>
 <h2 align="center">⚡ Streaks of Slack ⚡</h2>
 <p align=center>
