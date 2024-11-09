@@ -1,14 +1,10 @@
 [![An image of @mehtajinal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mehtajinal)](https://holopin.io/@mehtajinal)
-<br>
-<h2 align="center">⚡ Streaks of Slack ⚡</h2>
+<h2 align="center">⚡ Streaks ⚡</h2>
+<br />
 <p align=center>
   <div align=center>
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mehta-jinal&theme=youtube-dark" alt="GitHub Streak" /></a>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mehta-jinal&theme=dark&card_width=900" alt="GitHub Streak" /></a>
   </div>
-  <br>
-  <h2 align="center">⚡ Contributions ⚡</h2>
-  <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehta-jinal&theme=high-contrast&bg_color=070707&hide_border=true" width="100%"/>
 </p>
    <br>
    
