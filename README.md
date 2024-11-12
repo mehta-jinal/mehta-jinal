@@ -27,7 +27,7 @@
   
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=mehta-jinal&theme=discord)
 </div>
-<br />
+<br/>
 <br>
 
 
