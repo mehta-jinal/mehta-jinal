@@ -1,4 +1,3 @@
-<h2 align="center">⚡ About Me ⚡</h2>
 [![An image of @mehtajinal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mehtajinal)](https://holopin.io/@mehtajinal)
 <h2 align="center">⚡ Streaks ⚡</h2>
 <br />
