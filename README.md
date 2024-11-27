@@ -16,7 +16,7 @@
 </p>
 <div align="center">  
 <h2>📈 Github Stats 📈</h2>
-<br>
+<br >
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehta-jinal&theme=radical)](https://github.com/mehta-jinal)&nbsp;&nbsp;&nbsp;&nbsp;  [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=mehta-jinal&theme=radical)](https://github.com/mehta-jinal)
 
