@@ -3,22 +3,25 @@
 <br />
 <p align=center>
   <div align=center>
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mehta-jinal&theme=radical&card_width=900" alt="GitHub Streak" /></a>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mehta-jinal&theme=dark&card_width=900&card_height=300" />
+      <img src="https://streak-stats.demolab.com?user=mehta-jinal&theme=radical" />
+    </picture>
   </div>
 </p>
-   <br>
-   <p align=center>
+<p align=center>
   <br>
   <h2 align="center">⚡ Contributions ⚡</h2>
   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehta-jinal&theme=radical&bg_color=070707&hide_border=true" width="100%"/>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehta-jinal&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" height="70%"/>
    <br>
+   
 </p>
 <div align="center">  
 <h2>📈 Github Stats 📈</h2>
-<br >
+<br>
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehta-jinal&theme=radical)](https://github.com/mehta-jinal)&nbsp;&nbsp;&nbsp;&nbsp;  [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=mehta-jinal&theme=radical)](https://github.com/mehta-jinal)
+ [![Rahul’s github stats](https://github-readme-stats.vercel.app/api?username=mehta-jinal&theme=dark&card_width=900&card_height=400)](https://github.com/mehta-jinal)
 
 </div>
 <br>
