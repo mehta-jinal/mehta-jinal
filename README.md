@@ -11,7 +11,7 @@
   <br>
   <h2 align="center">⚡ Contributions ⚡</h2>
   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehta-jinal&theme=x-code&bg_color=070707&hide_border=true" width="100%"/>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehta-jinal&theme=radical&bg_color=070707&hide_border=true" width="100%"/>
    <br>
 </p>
 <div align="center">  
@@ -21,13 +21,6 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehta-jinal&theme=radical)](https://github.com/mehta-jinal)&nbsp;&nbsp;&nbsp;&nbsp;  [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=mehta-jinal&theme=radical)](https://github.com/mehta-jinal)
 
 </div>
-<div align="center">  
-<h2>🏆 Trophies 🏆</h2>
-<br>
-  
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=mehta-jinal&theme=discord)
-</div>
-<br/>
 <br>
 
 
