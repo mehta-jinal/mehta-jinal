@@ -5,7 +5,7 @@
   <div align=center>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mehta-jinal&theme=dark&card_width=900&card_height=300" />
-      <img src="https://streak-stats.demolab.com?user=mehta-jinal&theme=radical" />
+      <img src="https://streak-stats.demolab.com?user=mehta-jinal&theme=dark" />
     </picture>
   </div>
 </p>
@@ -13,7 +13,7 @@
   <br>
   <h2 align="center">⚡ Contributions ⚡</h2>
   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehta-jinal&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" height="70%"/>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehta-jinal&theme=dark&bg_color=20232a&hide_border=true" width="100%" height="70%"/>
    <br>
    
 </p>
@@ -21,7 +21,7 @@
 <h2>📈 Github Stats 📈</h2>
 <br>
   
- [![Jinal’s github stats](https://github-readme-stats.vercel.app/api?username=mehta-jinal&theme=radical&card_width=900&card_height=400)](https://github.com/mehta-jinal)
+ [![Jinal’s github stats](https://github-readme-stats.vercel.app/api?username=mehta-jinal&theme=dark&card_width=900&card_height=400)](https://github.com/mehta-jinal)
 
 </div>
 <br>
