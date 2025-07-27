@@ -9,14 +9,6 @@
     </picture>
   </div>
 </p>
-<p align=center>
-  <br>
-  <h2 align="center">⚡ Contributions ⚡</h2>
-  <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehta-jinal&theme=dark&bg_color=20232a&hide_border=true" width="100%" height="70%"/>
-   <br>
-   
-</p>
 <br>
 
 
