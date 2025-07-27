@@ -17,13 +17,6 @@
    <br>
    
 </p>
-<div align="center">  
-<h2>📈 Github Stats 📈</h2>
-<br>
-  
- [![Jinal’s github stats](https://github-readme-stats.vercel.app/api?username=mehta-jinal&theme=dark&card_width=900&card_height=400)](https://github.com/mehta-jinal)
-
-</div>
 <br>
 
 
